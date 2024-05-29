@@ -7,6 +7,9 @@
  <img src="https://img.shields.io/github/followers/kushitha1521.svg?style=social&label=Followers" alt="kushitha1521" /> 
   &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/kushitha1521?style=social"> 
   &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=kushitha1521&label=Profile%20views&color=0e75b6&style=flat" alt="kushitha1521" />
+  
+    
+
 </p>
 
 <h2 align="left">  🌐 Connect with me:</h2>
