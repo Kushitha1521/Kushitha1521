@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **kushithalakshitha@gmail.com**
 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kushitha1521&theme=algolia" alt="GitHub Streak" /></a>
 
  <h2 align="left">:computer: Languages and Tools:</h2>
 
