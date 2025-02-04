@@ -61,6 +61,7 @@
 <h2>🔥 My contribution streak:</h2>
   <p align="center">
     <img align="center" src="https://streak-stats.demolab.com?user=kushitha1521" alt="kushitha1521" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kushitha1521&theme=algolia" alt="GitHub Streak" /></a>
 
   </p>
 
